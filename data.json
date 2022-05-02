@@ -1,0 +1,29 @@
+[
+    {
+        "year_film": 2019,
+        "year_award": 2021,
+        "ceremony": 77,
+        "category": "Guldpalmen",
+        "nominee": "Andrew Scott",
+        "film": "Purpurfärgen",
+        "win": false
+    },
+    {
+        "year_film": 2019,
+        "year_award": 2020,
+        "ceremony": 77,
+        "category": "Oscar",
+        "nominee": "Meryl Streep",
+        "film": "Mamma mia",
+        "win": true
+    },
+    {
+        "year_film": 2019,
+        "year_award": 2020,
+        "ceremony": 77,
+        "category": "Guldbaggen",
+        "nominee": "Geena Davis",
+        "film": "Top Gun",
+        "win": false
+    }
+]
